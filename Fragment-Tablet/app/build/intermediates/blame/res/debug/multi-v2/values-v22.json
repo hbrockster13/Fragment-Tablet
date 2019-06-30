@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hbroc\\Documents\\Classes\\COP_3665_MOP\\In_Class_Examples\\Fragment-Tablet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hbroc\\.gradle\\caches\\transforms-2\\files-2.1\\cfb1a80ba0781eb2d95e764031af0d45\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
